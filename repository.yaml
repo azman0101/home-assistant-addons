@@ -1,0 +1,5 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Azman0101 addons
+url: 'https://github.com/azman0101/home-assistant-addons.git'
+maintainer: Awesome Maintainer <awesome@example.com>
+
